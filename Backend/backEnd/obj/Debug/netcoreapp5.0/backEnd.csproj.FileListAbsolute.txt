@@ -1,0 +1,7 @@
+D:\projects\vue_shop\backEnd\backEnd\obj\Debug\netcoreapp5.0\backEnd.csprojAssemblyReference.cache
+D:\projects\vue_shop\backEnd\backEnd\obj\Debug\netcoreapp5.0\backEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\vue_shop\backEnd\backEnd\obj\Debug\netcoreapp5.0\backEnd.AssemblyInfoInputs.cache
+D:\projects\vue_shop\backEnd\backEnd\obj\Debug\netcoreapp5.0\backEnd.AssemblyInfo.cs
+D:\projects\vue_shop\backEnd\backEnd\obj\Debug\netcoreapp5.0\backEnd.csproj.CoreCompileInputs.cache
+D:\projects\vue_shop\backEnd\backEnd\obj\Debug\netcoreapp5.0\backEnd.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\vue_shop\backEnd\backEnd\obj\Debug\netcoreapp5.0\backEnd.MvcApplicationPartsAssemblyInfo.cache
